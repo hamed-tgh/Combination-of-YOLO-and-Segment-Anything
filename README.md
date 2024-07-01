@@ -17,11 +17,13 @@ The Segment Anything Model offers a powerful and versatile solution for object s
 
 ## Requirment
 1) pip install git+https://github.com/facebookresearch/segment-anything.git
-2) Python 3.8.10
-3) Torch 2.3.1
+2) Pip install ultralytics
+3) Python 3.8.10
+4) Torch 2.3.1
 
    
 ## Sources
 1) https://segment-anything.com/
 2) https://github.com/facebookresearch/segment-anything
+3) https://www.ultralytics.com/
    
